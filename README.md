@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bhargavahc
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking for an Internship
+- 🌱 I’m currently learning React
 - 📫 bhargava9986@gmail.com
 
 <!---
